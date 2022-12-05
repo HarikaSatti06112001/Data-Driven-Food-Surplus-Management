@@ -8,3 +8,7 @@
     install django - pipenv install django
     to start django server - python manage.py runserver
     once the server starts successfully, go to http://127.0.0.1:8000/playground/home/ in your browser.
+    
+    
+#### Project - YourNextMeal.com
+Demo - https://youtu.be/lF_JdTrCyO0
